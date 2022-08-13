@@ -1,5 +1,11 @@
 # Product Ecosystem
 
+## Points to note:
+1. "WA_Fn-UseC_-Telco-Customer-Churn" is the raw data
+2. We performed feature engineering and data visualization on `Telecom.ipynb`.
+3. Saved the data on "clean-tel.csv".
+4. Trained the model on `model.ipynb`
+
 ## What is Product Ecosystem?
 In our day-to-day life, we see a lot of companies of a particular industry rest on an ecosystem or a platform of products.
 

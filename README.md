@@ -23,9 +23,13 @@ In this project, the theme is about understanding if this business strategy is s
 ![Screenshot 2022-08-13 110305](https://user-images.githubusercontent.com/60513868/184471466-23fa3cb9-e65f-4d92-971f-77e6546866c6.jpg)
 
 ## When does a customer thinks of leaving the brand?
-I have gone through various articles and videos to come to this overview. So here are some points:
-*1. Having no notable special services.*
+I have gone through various articles and videos to come to this overview. So here are two points:
+1. *Having no notable special services.*
 Companies fail to evolve with time and stop renovation of the walls that hold on their product. For example, Vodaphone and Idea had good sim-card presence but weak DTH service to make a place in the customers head to act as a retainer. Like such there were loop-holes in other brands too.
+![Screenshot 2022-08-13 183510](https://user-images.githubusercontent.com/60513868/184495505-16e978ff-9d0b-49cb-8af6-87af35de8a38.jpg)
+2.*Having no facility of various departments to work together to supply special services*
+The collaboration between the employees of different department is weak and they fail to develop collective outcome to develop a product or provide a service.
+
 
 
 The Data visualization and preprocessing part is in telecom.ipynb and the model building is in model.ipynb.

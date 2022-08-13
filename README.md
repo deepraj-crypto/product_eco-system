@@ -29,6 +29,7 @@ Companies fail to evolve with time and stop renovation of the walls that hold on
 ![Screenshot 2022-08-13 183510](https://user-images.githubusercontent.com/60513868/184495505-16e978ff-9d0b-49cb-8af6-87af35de8a38.jpg)
 2.*Having no facility of various departments to work together to supply special services*
 The collaboration between the employees of different department is weak and they fail to develop collective outcome to develop a product or provide a service.
+![Screenshot 2022-08-13 105757](https://user-images.githubusercontent.com/60513868/184496181-051e1eb8-1ffd-49c3-9ab1-55279fc0a331.jpg)
 
 
 

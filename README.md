@@ -16,7 +16,7 @@ If someone is already enrolled into some services then they will eventually upgr
 ![Screenshot 2022-08-13 105942](https://user-images.githubusercontent.com/60513868/184471322-d4c93987-fdea-47c4-9277-08415f9bb529.jpg)
 
 ## Project Theme
-In this project, the theme is about understanding if this business strategy is successful in other industries compared to the traditional ways of Hierarchies and Buy-Sell Markets. I had datasets of the banking industry and the Telecom Industry. I selected the banking industry as it will be relatable after experiencing the jio revolution.
+In this project, the theme is about understanding if this business strategy is successful in other industries compared to the traditional ways of Hierarchies and Buy-Sell Markets. I had datasets of the telecom industry and the Telecom Industry. I selected the banking industry as it will be relatable after experiencing the jio revolution.
 ### Then VS Now:
 ![Screenshot 2022-08-13 114715](https://user-images.githubusercontent.com/60513868/184471448-65ee62e4-9b4d-4a24-8d6e-7bcd1b80711d.jpg)
                                                                       *V/S*
